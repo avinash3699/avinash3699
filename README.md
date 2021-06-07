@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Avinash!
+# <p align=center> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Avinash! </p>
 ---
 
 🧰 Toolbox
@@ -13,6 +13,7 @@
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash3699&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=avinash3699&color=green&label=Profile+Views)
 <!--
 **avinash3699/avinash3699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
