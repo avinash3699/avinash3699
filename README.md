@@ -1,5 +1,10 @@
 # <p align=center> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Avinash! </p>
+
+<p align = center> <a href="https://www.linkedin.com/in/avinash-m-571642119/"><img src="https://img.shields.io/badge/-@Avinash%20M-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avinash-m-571642119/" alt="LinkedIn Badge"></a>
+</p>
+
 ### <p align=center> Machine Learning and Data Science Enthusiast </p>
+
 ---
 
 🧰 Toolbox
