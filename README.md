@@ -3,6 +3,8 @@
 <p align = center>
 <a href="https://www.linkedin.com/in/avinash-m-571642119/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avinash-m-571642119/" alt="LinkedIn Badge"></a>
 <a href="https://www.hackerrank.com/avinashmohan2001/"><img src="https://img.shields.io/badge/-HackerRank-00ea64?style=flat-square&amp;labelColor=081100&amp;logo=HackerRank&amp;link=https://www.hackerrank.com/avinashmohan2001/" alt="HackerRank Profile"></a>
+<a href="https://www.credly.com/users/avinash-m.8dd3bd7e/"><img src="https://img.shields.io/badge/Credly-Badges-081100?style=flat-square&amp;labelColor=FF1694&amp;&amp;" alt="Credly Badges"></a> 
+<a href="http://intern.skillrack.com/profile/253795/3c909fd904d46063134846fb49a7bdccd84a408c"><img src="https://img.shields.io/badge/Skillrack-Profile-blue?style=flat-square&amp;labelColor=orange&amp;&amp;" alt="Skillrack Profile"></a> 
 </p>
 
 ### <p align=center> Machine Learning and Data Science Enthusiast </p>
