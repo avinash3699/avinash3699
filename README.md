@@ -1,5 +1,7 @@
 # <p align=center> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Avinash! </p>
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=%239565FF&duration=3500&multiline=true&height=70&lines=Hi%2C+I+am+Avinash%F0%9F%91%8B;Nice+to+meet+you!)](https://git.io/typing-svg) -->
+
 <p align = center>
 <a href="https://www.linkedin.com/in/avinash-m-571642119/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avinash-m-571642119/" alt="LinkedIn Badge"></a>
 <a href="https://www.hackerrank.com/avinashmohan2001/"><img src="https://img.shields.io/badge/-HackerRank-00ea64?style=flat-square&amp;labelColor=081100&amp;logo=HackerRank&amp;link=https://www.hackerrank.com/avinashmohan2001/" alt="HackerRank Profile"></a>
@@ -11,10 +13,9 @@
 
 ---
 
-🧰 Toolbox
-
-<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">  <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">  <img src = "https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">
-
+### Languages & Tools :computer:
+|<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px">
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ---
 
 ## &#x1f4c8; My GitHub Stats
@@ -26,6 +27,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash3699&theme=radical)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=avinash3699&color=green&label=Profile+Views)
+
+<h1 align='center'>🚀<i>Better than yesterday</i>🚀</h1>
+
 <!--
 **avinash3699/avinash3699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
