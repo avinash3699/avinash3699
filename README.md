@@ -28,7 +28,7 @@
 
 ![](https://komarev.com/ghpvc/?username=avinash3699&color=green&label=Profile+Views)
 
-<h1 align='center'>🚀<i>Better than yesterday</i>🚀</h1>
+<h1 align='center'>🚀 <i>Better than yesterday</i> 🚀</h1>
 
 <!--
 **avinash3699/avinash3699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
