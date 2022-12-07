@@ -26,9 +26,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash3699&theme=radical)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=avinash3699&color=green&label=Profile+Views)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=avinash3699&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=avinash3699&color=red&label=Profile+Views&style=for-the-badge)
 
 <h1 align='center'>🚀 <i>Better than yesterday</i> 🚀</h1>
 
