@@ -11,10 +11,12 @@
 
 ---
 
+<!--
 ### Languages & Tools :computer:
 |<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src = "https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px" alt="postgresql"/> | <img src = "https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px"> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px" alt="vscode"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" style="margin: 3px 3px 1px 1px" alt="jupyter notebook"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" width="50" height="50" style="margin: 3px 3px 1px 1px" alt="jupyter notebook"/>
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ---
+-->
 
 ## &#x1f4c8; My GitHub Stats
 
